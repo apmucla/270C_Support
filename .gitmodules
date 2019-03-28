@@ -1,0 +1,6 @@
+[submodule "DoubleVectorNd"]
+	path = DoubleVectorNd
+	url = https://github.com/apmcollab/SCC-DoubleVectorNd.git
+[submodule "SparseOp"]
+	path = SparseOp
+	url = https://github.com/apmcollab/SparseOp.git
