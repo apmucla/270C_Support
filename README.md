@@ -2,13 +2,13 @@
 
 Files and git repositories to support Math 270C
 
-Since this repository consists of submodules, after cloning you will need to execute 
+Since this repository consists of submodules, after cloning you will need cd (change directory) to the 270C_Support directory and then execute 
 
 git submodule init  
 git submodule update 
 
 
-When this repository changes, in order to pull in updates you will need to execute 
+When this repository changes, in order to pull in updates you will need cd (change directory) to the 270C_Support directory and then execute  
 
 git submodule update --recursive --remote
 
